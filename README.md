@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=peppermintc&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peppermintc&hide=Java,Ruby&layout=compact" />
+</a>
+
 <!--
 **peppermintc/peppermintc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
