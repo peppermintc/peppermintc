@@ -1,4 +1,4 @@
-### Hi there 👋 Check out my resume <a href="https://peppermintc.github.io/resume/" target="_blank">here</a>
+### Hi there 👋 Check out my <a href="https://peppermintc.github.io/resume/" target="_blank">resume</a>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=peppermintc&count_private=true&show_icons=true&include_all_commits=true" />
