@@ -1,6 +1,6 @@
-### Hi there 👋 Check out my <a href="https://peppermintc.github.io/resume/" target="_blank">resume</a>
+#### Hi there 👋 Check out my <a href="https://peppermintc.github.io/resume/" target="_blank">resume</a>
 
-My ongoing projects
+#### Ongoing projects
 <ul>
  <li>Image Cropper - <a target="_blank" href="https://github.com/peppermintc/image-cropper">repo</a></li>
  <li>NBA Highlight Library - <a target="_blank" href="https://nbahighlightlibrary.com/">demo</a></li>
