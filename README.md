@@ -1,4 +1,11 @@
 ### Hi there 👋 Check out my <a href="https://peppermintc.github.io/resume/" target="_blank">resume</a>
+
+My ongoing projects
+<ul>
+ <li>Image Cropper - <a target="_blank" href="https://github.com/peppermintc/image-cropper">repo</a></li>
+ <li>NBA Highlight Library - <a target="_blank" href="https://nbahighlightlibrary.com/">demo</a></li>
+ <li>3D Printing Qutation - <a target="_blank" href="https://peppermintc.github.io/3d-print-quotation/">demo</a></li>
+</ul>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=peppermintc&count_private=true&show_icons=true&include_all_commits=true" />
