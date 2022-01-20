@@ -2,7 +2,7 @@
 
 #### Ongoing projects
 <ul>
- <li>Image Cropper - <a target="_blank" href="https://github.com/peppermintc/image-cropper">repo</a> <a target="_blank" href="peppermintc.github.io/image-cropper/">demo</a></li>
+ <li>Image Cropper - <a target="_blank" href="https://github.com/peppermintc/image-cropper">repo</a></li>
  <li>NBA Highlight Library - <a target="_blank" href="https://nbahighlightlibrary.com/">demo</a></li>
  <li>3D Printing Qutation - <a target="_blank" href="https://peppermintc.github.io/3d-print-quotation/">demo</a></li>
 </ul>
