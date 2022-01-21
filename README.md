@@ -1,18 +1,39 @@
-#### Hi there 👋 Check out my <a href="https://peppermintc.github.io/resume/" target="_blank">resume</a>
+#### Introduction
+
+- Hi there, thank you for visiting  👋 
+
+- Check out my <a href="https://peppermintc.github.io/resume/" target="_blank">resume</a>
+
+- Kindly follow my github page if you like, it would be appreciated!
 
 #### Ongoing projects
-<ul>
- <li>Image Cropper - <a target="_blank" href="https://github.com/peppermintc/image-cropper">repo</a></li>
- <li>NBA Highlight Library - <a target="_blank" href="https://nbahighlightlibrary.com/">demo</a></li>
- <li>3D Printing Qutation - <a target="_blank" href="https://peppermintc.github.io/3d-print-quotation/">demo</a></li>
-</ul>
+
+* Image Cropper - <a target="_blank" href="https://github.com/peppermintc/image-cropper">repo</a>
+
+* NBA Highlight Library - <a target="_blank" href="https://nbahighlightlibrary.com/">demo</a>
+
+* 3D Printing Qutation - <a target="_blank" href="https://peppermintc.github.io/3d-print-quotation/">demo</a>
  
+#### Tech stack
+
+* My tech stack - HTML, CSS, JavaScript, React, Redux
+
+* I'm current studying - React, TypeScript, Redux stack
+
+* What I want to study next - Next.js, Vanilla JavaScript, MobX, React Native
+
+* May be someday I should study - Recoil, PWA, GraphQL, Test Driven Development, Storybook, Gatsby
+
+#### Github activity
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=peppermintc&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="150px" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peppermintc&hide=Java,Ruby&layout=compact" />
 </a>
+
+
 
 <!--
 **peppermintc/peppermintc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
