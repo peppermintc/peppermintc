@@ -2,7 +2,7 @@
 
 - Hi there, thank you for visiting  👋 
 
-- Check out my <a href="https://peppermintc.github.io/resume/" target="_blank">resume</a>
+- Check out my <a href="https://peppermintc.github.io/resume/" target="_blank">resume</a> and <a href="https://velog.io/@peppermint" target="_blank">velog</a>
 
 - Kindly follow my github page if you like, it would be appreciated!
 
