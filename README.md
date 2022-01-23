@@ -18,7 +18,7 @@
 
 * My tech stack - HTML, CSS, JavaScript, React, Redux
 
-* I'm current studying - React, TypeScript, Redux stack
+* I'm current studying - React, TypeScript, Redux stack, Mobile Responsive
 
 * What I want to study next - Next.js, Vanilla JavaScript, MobX, React Native
 
