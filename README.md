@@ -16,7 +16,7 @@
  
 #### Tech stack
 
-* My tech stack - HTML, CSS, JavaScript, React, Redux
+* My tech stack - HTML, CSS, JavaScript, TypeScript, React, Redux
 
 * I'm current studying - React, TypeScript, Redux stack, Mobile Responsive
 
