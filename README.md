@@ -18,11 +18,11 @@
 
 * My tech stack - HTML, CSS, JavaScript, TypeScript, React, Redux
 
-* I'm current studying - React, TypeScript, Redux stack, redux toolkit, Next.js
+* I'm current studying - Next.js and SEO
 
-* What I want to study next - Vanilla JavaScript, MobX, React Native
+* What I want to study next - MobX, Recoil, Storybook
 
-* May be someday I should study - Recoil, PWA, GraphQL, Test Driven Development, Storybook, Gatsby, react-responsive
+* May be someday I should study - PWA, GraphQL, Test Driven Development, Gatsby, react-responsive, React Native, Vanilla JavaScript
 
 #### Github activity
 
