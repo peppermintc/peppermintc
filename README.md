@@ -20,7 +20,7 @@
 
 * I'm current studying - Next.js and SEO
 
-* What I want to study next - MobX, Recoil, Storybook
+* What I want to study next - MobX, Recoil, Storybook, Jest
 
 * May be someday I should study - PWA, GraphQL, Test Driven Development, Gatsby, react-responsive, React Native, Vanilla JavaScript
 
