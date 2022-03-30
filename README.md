@@ -18,7 +18,7 @@
 
 * My tech stack - HTML, CSS, JavaScript, TypeScript, React, Redux
 
-* I'm current studying - Next.js, Jest
+* I'm current studying - Next.js, Jest, GraphQL
 
 * What I want to study next - MobX, Recoil, Storybook, Cypress
 
