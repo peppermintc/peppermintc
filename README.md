@@ -13,7 +13,7 @@ Hi there, thank you for visiting 👋
 #### Private Projects
 * NBA Highlight Library - <a target="_blank" href="https://nbahighlightlibrary.com/">demo</a>
 * Custom Video Player - <a target="_blank" href="https://peppermintc.github.io/custom-video-player/">demo</a>
-* Image Cropper - <a target="_blank" href="https://github.com/peppermintc/image-cropper">demo</a>
+* Image Cropper - <a target="_blank" href="https://peppermintc.github.io/image-cropper/">demo</a>
 * 3D Printing Qutation - <a target="_blank" href="https://peppermintc.github.io/3d-print-quotation/">demo</a>
 * Team Manager - <a target="_blank" href="https://peppermintc.github.io/team-manager-3/">demo</a>
 * Notice Board - <a target="_blank" href="https://peppermintc.github.io/Notice-Board/">demo</a>
