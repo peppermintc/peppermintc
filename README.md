@@ -9,6 +9,7 @@ Hi there, thank you for visiting 👋
 * HTML, CSS, JavaScript, TypeScript, React, Redux, Next.js, Storybook
 
 #### Public Projects
+* Community Mobile - <a target="_blank" href="https://github.com/peppermintc/community-mobile">repository</a>
 * Compound Component Practice - <a target="_blank" href="https://github.com/peppermintc/compound-pattern-practice">repository</a>
 * Cat Gallery - <a target="_blank" href="https://github.com/peppermintc/cat-gallery">repository</a>
 
