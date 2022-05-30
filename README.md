@@ -1,7 +1,8 @@
 #### Introduction
 Hi there, thank you for visiting 👋
-
-<a href="https://peppermintc.github.io/resume/" target="_blank">Check out my resume</a>
+<!-- 
+<a href="https://peppermintc.github.io/resume/" target="_blank">Check out my resume</a> 
+-->
 
 <a href="https://velog.io/@peppermint" target="_blank">Check out my blog</a>
 
