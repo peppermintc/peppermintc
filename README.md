@@ -1,16 +1,22 @@
-이로움을 제공하는 서비스, 재미있는 서비스, 창의적인 서비스를 좋아합니다.
-
-스타트업에서 서비스를 성장시키며 재미있게 개발하는 낭만을 꿈꿉니다.
 
 ```javascript
 {
-  // 실패시 좋은 경험을 가지고 다시 일어난다
   onFail: (context) => {
     const goodExperience = getGoodExperience(context);
     getBackUp(goodExperience);
   };
 }
 ```
+
+### Work Experience
+
+- 노머스, 프론트엔드 개발자 (2023.05 ~ 2023.10)
+- 셀러노트, 프론트엔드 개발자 (2022.07 ~ 2023.03)
+- 비프로컴퍼니, 프론트엔드 엔지니어 (2021.03 ~ 2021.09)
+
+### Contact
+
+- haminjp@naver.com
 
 ### Tech stack
 
