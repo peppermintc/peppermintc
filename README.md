@@ -23,7 +23,3 @@
 ![Github](https://img.shields.io/badge/-Github-black?logo=github)
 ![Slack](https://img.shields.io/badge/-Slack-black?logo=slack)
 ![Figma](https://img.shields.io/badge/-Figma-black?logo=figma)
-
-### Reading Log
-
-- [Reading Log Notion Page](https://www.notion.so/b93710c06cb8450b86496038f8c110f4?v=93df2700f77a4cdb9607ee7e04964182)
